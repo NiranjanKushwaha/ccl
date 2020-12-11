@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container-fluid footer m-0 p-0">
         <div className="row footer-contents text-center">
           <div className="col-md-4 col-sm-12 mt-3">
-            <h3>Copper Connections Ltd.</h3>
+            <h4>Copper Connections Ltd.</h4>
             <p>195-196, DSIDC Complex,</p>
             <p>Okhla Industrial Area, Phase-1</p>
             <p>New Delhi- 110020</p>
