@@ -1,0 +1,93 @@
+/* bg:    #2d3436 navbar */
+
+/*  other-#222  footer*/
+
+/* color: #ff9f43;  orange */
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.about-page{
+    background-color:#4b4b4b;
+}
+
+.about-contents{
+    margin-bottom: 90px;
+}
+
+.about-contents p{
+    color: #fff;
+    opacity: 0.8;
+}
+.about-heading{
+    color:#fff;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #bdc3c7;
+}
+
+/* 
+  ---------------------------------->Procucts CSS starts here<------------------------------------------------
+
+*/
+
+
+.products-container{
+margin-top: 50px;
+
+}
+.product-page{
+    background-color:#4b4b4b;
+}
+
+.Product-heading{
+    color: #fff;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #bdc3c7;
+}
+
+
+
+.image-text-left{
+    position: relative;
+    left:25%;
+    top:-10%;
+}
+
+.image-text-right {
+    position: relative;
+    left: 32%;
+    top: -10%;
+}
+
+.text-heading-icons{
+    font-weight: 500;
+    color: #ff9f43;
+}
+
+.list-container li{
+    font-size: 30px;
+    color:#fff;
+    font-weight: 600;
+}
+
+.list-container li a{
+    color:#fff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.6;
+    text-decoration: none;
+}
+
+.small-text{
+    font-size: 13px;
+    opacity: 0.7;
+}
+
+.right{
+    position: relative;
+    top:-20px;
+    
+}

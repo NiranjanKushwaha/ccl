@@ -1,0 +1,40 @@
+/* bg:    #2d3436 navbar */
+
+/*  other-#222  footer*/
+
+/* color: #ff9f43;  orange */
+
+/* bg-main  #4b4b4b */
+
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.contact-page{
+    background-color:#4b4b4b;
+}
+.contact-page h1,h2,h3,h4,h5,h6{
+    color:#ff9f43;
+}
+
+.contact-page p{
+    color:#fff;
+    opacity: 0.7;
+    font-size: 14px;
+    line-height: .6;
+}
+
+.contact-heading{
+    color:#fff;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #bdc3c7;
+}
+
+.vertical-bar{
+    position: relative;
+    left:5px;
+}
