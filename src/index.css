@@ -138,7 +138,7 @@ color:#ff9f43;
 }
 
 .footer-contents h3,h4{
-    color: #fff;
+    color:#ff9f43;
 
 }
 .footer-contents p{
@@ -154,7 +154,7 @@ color:#ff9f43;
 @media(max-width:992px){
 
     .homepage-left-strip {
-        height: 110px;
+        height: 130px;
         width: 70%;
     }
     .homepage-left-strip-text {
